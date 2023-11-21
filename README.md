@@ -1,6 +1,11 @@
 # BDA-LD
 Projet Big Data Analytics : Analyse de la Clientèle d'un Concessionnaire Automobile pour la Recommandation de Modèles de Véhicules
 
+## Branch
+
+This branch is created by Benjamin Bernaud, to push some experimentals files before merging into other branches.
+
+
 # Authors
 
 - [Benjamin BERNAUD](https://github.com/benj-b)
