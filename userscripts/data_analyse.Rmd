@@ -1,0 +1,162 @@
+---
+title: "BDA-LD"
+author: "Benjamin Bernaud"
+date: "2023-11-27"
+output: pdf_document
+---
+
+```{r}
+setwd("C:/Users/Berna/Documents/BDA-LD/userscripts")
+```
+
+# BDA-LD - Partie Analyse de données
+
+### Chargement des librairies
+
+```{r}
+install.packages("fpc", repos = "http://cran.us.r-project.org")
+install.packages("regclass", repos = "http://cran.us.r-project.org")
+
+library(tidyverse)
+library(regclass)
+library(cluster)
+library(ggplot2)
+library(fpc)
+```
+
+## 1) Analyse exploratoire des données :
+
+L'analyse exploratoire des données vous permettra d'identifier d'éventuels problèmes dans les données (valeurs incohérentes, codage des valeurs manquantes, etc.) et découvrir d'éventuelles propriétés de l'espace des données (valeurs doublons, variables liées, variables d'importance particulière ou bien inutiles, etc.). Appliquez pour cela les différentes méthodes d'analyse exploratoire des données vues en cours (statistiques descriptives, histogrammes, nuages de points, boîtes à moustaches, etc.).
+
+### Chargement des données
+```{r}
+catalogue <- read.csv("../files/Catalogue.csv", header = TRUE, sep = ",", dec = ".", stringsAsFactors = T)
+head(catalogue)
+```
+
+#### Catalogue
+```{r}
+str(catalogue)
+```
+
+```{r}
+summary(catalogue)
+```
+
+Statistiques descriptives pour une colonne spécifique, par exemple, 'puissance'
+```{r}
+summary(catalogue$puissance)
+```
+
+```{r}
+hist(catalogue$puissance, main="Histogramme de la puissance", xlab="Puissance")
+```
+
+Comparaison entre puissance et prix
+```{r}
+plot(catalogue$puissance, catalogue$prix, main="Comparaison entre puissance et prix", xlab="Puissance", ylab="Prix")
+```
+
+Prix en fonction du statut occasion
+```{r}
+boxplot(catalogue$prix ~ catalogue$occasion, main="Boîte à moustaches pour le prix en fonction de l'occasion", xlab="Occasion", ylab="Prix")
+```
+
+On vérifie si il y a des données manquantes
+```{r}
+sum(is.na(catalogue))
+```
+
+On vérifie si il y a des lignes en double
+```{r}
+doublons <- duplicated(catalogue)
+
+catalogue[doublons, ]
+```
+
+
+Recherche de données liées : 
+```{r}
+matrice_cor <- cor(catalogue[, sapply(catalogue, is.numeric)])
+
+print(matrice_cor)
+```
+La puissance et le prix ont l'air assez liés !
+
+
+## 2) Identification des catégories de véhicules :
+
+Vous devez à partir des informations du Catalogue identifier des catégories de véhicules (citadine, routière, sportive, etc.) en fonction de leur taille, puissance, prix, etc. Ces catégories doivent correspondre à divers besoins de la part des clients (une grande voiture pour les familles nombreuses, une petite voiture pour circuler en ville, etc.). Ces catégories de véhicules constitueront les classes à prédire durant les étapes suivantes du processus.
+
+
+Premièrement on définit des critères d'identification : 
+-   Puissance : Utiliser la puissance du véhicule pour distinguer entre des catégories telles que citadine, routière, sportive, etc.
+-   Taille : Utiliser la longueur du véhicule pour également contribuer à la classification. Les citadines ont tendances a être plus courtes que les routières par exemple.
+-   Prix : Utiliser la fourchette de prix pour distinguer entre des catégories de véhicules plus abordables ou haut de gamme.
+
+Pour définir les seuils de classification, on part du principe que l'ensemble proposé est homogène et représentatif. Ainsi on peut se baser sur ces données pour définir différentes classes.
+
+Différentes classes de puissances
+```{r}
+summary(catalogue$puissance)
+```
+
+Différentes classes de tailles
+```{r}
+summary(catalogue$longueur)
+```
+
+
+Différentes classes de prix
+```{r}
+summary(catalogue$prix)
+```
+
+
+
+```{r}
+# On définit les seuils en fonction des stats affichées juste au dessus
+seuil_puissance <- c(0, 100, 170, Inf)
+seuil_prix <- c(0, 16000, 30000, Inf) 
+
+# Assigner les catégories en fonction des seuils
+catalogue$puissance_class <- cut(catalogue$puissance, breaks = seuil_puissance, labels = c("Puissance faible", "Puissance moyenne", "Puissance élevée"))
+catalogue$prix_class <- cut(catalogue$prix, breaks = seuil_prix, labels = c("Prix faible", "Prix moyen", "Prix élevé"))
+
+head(catalogue, 20)
+```
+
+
+```{r}
+# Tableau croisé entre la catégorie de puissance et la catégorie de taille
+table_croisee <- table(catalogue$puissance_class, catalogue$longueur)
+print(table_croisee)
+
+# Diagramme en barres pour visualiser la répartition des catégories de prix
+barplot(table(catalogue$prix_class), main="Répartition des catégories de prix", xlab="Catégorie de Prix", ylab="Fréquence")
+
+```
+
+Finalement, grâce a ces classifications, on pourrait affecter une classe à chacun des véhicules : 
+
+```{r}
+library(dplyr)
+```
+
+
+```{r}
+catalogue$classe <- NA
+
+catalogue <- catalogue %>%
+  mutate(classe = case_when(
+    puissance_class == "Puissance élevée" & longueur != "Courte" ~ "Routière",
+    puissance_class == "Puissance élevée" & longueur == "Courte" & prix_class == "Prix élevé" ~ "Sportive",
+    puissance_class == "Puissance moyenne" & longueur == "Courte" & prix_class == "Prix élevé" ~ "Sportive",
+    puissance_class == "Puissance moyenne" & longueur == "Courte" & prix_class != "Prix élevé" ~ "Citadine",
+    puissance_class == "Puissance moyenne" & longueur != "Courte" ~ "Routière",
+    puissance_class == "Puissance faible" ~ "Citadine",
+    TRUE ~ "?"
+  ))
+
+head(catalogue, 25)
+```
