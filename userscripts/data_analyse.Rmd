@@ -22,6 +22,7 @@ library(regclass)
 library(cluster)
 library(ggplot2)
 library(fpc)
+library(dplyr)
 ```
 
 ## 1) Analyse exploratoire des données :
@@ -139,9 +140,6 @@ barplot(table(catalogue$prix_class), main="Répartition des catégories de prix"
 
 Finalement, grâce a ces classifications, on pourrait affecter une classe à chacun des véhicules : 
 
-```{r}
-library(dplyr)
-```
 
 
 ```{r}
@@ -160,3 +158,49 @@ catalogue <- catalogue %>%
 
 head(catalogue, 25)
 ```
+
+
+## 3) Application des catégories de véhicules définies aux données des Immatriculations :
+
+Les données d'Immatriculations contiennent les informations sur les véhicules vendus cette année. L'objectif est d'attribuer à chacun de ces véhicules la catégorie qui lui correspond en utilisant le modèle définissant les catégories de véhicules généré précédemment.
+
+```{r}
+immatriculations <- read.csv("../files/Immatriculations.csv", header = TRUE, sep = ",", dec = ".", stringsAsFactors = T)
+head(immatriculations)
+```
+
+
+```{r}
+
+immatriculations$puissance_class <- cut(immatriculations$puissance, breaks = seuil_puissance, labels = c("Puissance faible", "Puissance moyenne", "Puissance élevée"))
+immatriculations$prix_class <- cut(immatriculations$prix, breaks = seuil_prix, labels = c("Prix faible", "Prix moyen", "Prix élevé"))
+
+immatriculations$classe <- NA
+
+immatriculations <- immatriculations %>%
+  mutate(classe = case_when(
+    puissance_class == "Puissance élevée" & longueur != "Courte" ~ "Routière",
+    puissance_class == "Puissance élevée" & longueur == "Courte" & prix_class == "Prix élevé" ~ "Sportive",
+    puissance_class == "Puissance moyenne" & longueur == "Courte" & prix_class == "Prix élevé" ~ "Sportive",
+    puissance_class == "Puissance moyenne" & longueur == "Courte" & prix_class != "Prix élevé" ~ "Citadine",
+    puissance_class == "Puissance moyenne" & longueur != "Courte" ~ "Routière",
+    puissance_class == "Puissance faible" ~ "Citadine",
+    TRUE ~ "?"
+  ))
+
+head(immatriculations, 25)
+
+```
+
+
+## 4) Fusion des données Clients et Immatriculations :
+
+Les données Clients contiennent les informations sur les clients ayant les véhicules vendus cette année. L'objectif est de faire la fusion entre les données des Clients et des Immatriculations afin d'obtenir sur une même ligne l'ensemble des informations sur le client (âge, sexe, etc.) et sur le véhicule qu'il a acheté (avec sa catégorie). Cet ensemble de données servira lors des étapes suivantes pour l'apprentissage de la catégorie de véhicules (variable cible) la plus adaptée à un client selon ses caractéristiques (variables prédictives).
+
+## 5) Création d'un modèle de classification supervisée pour la prédiction de la catégorie de véhicules :
+
+L'objectif de cette étape est de créer à partir du résultat de la fusion précédente un classifieur (modèle de classification supervisée) permettant d'associer aux caractéristiques des clients (âge, sexe, etc.) une catégorie de véhicules. Testez les différentes approches et algorithmes (arbres de décision, random forests, support vector machines, réseaux de neurones, deep learning, etc.), avec pour chaque algorithme plusieurs paramétrages testés, afin d'obtenir un classifieur aussi performent que possible. L'évaluation et la comparaison des performances de chaque configuration algorithmique (un algorithme et un paramétrage spécifiques) testée sera réalisée grâce aux matrices de confusion et mesures d'évaluation calculées à partir des résultats des tests des classifieurs.
+
+## 6) Application du modèle de prédiction aux données Marketing :
+
+Les données Marketing contiennent les informations sur les clients pour lesquels on souhaite prédire une catégorie de véhicules. L'objectif est de prédire pour chacun de ces clients la catégorie de véhicules qui lui correspond le mieux en utilisant le classifieur généré durant l'étape précédente.
