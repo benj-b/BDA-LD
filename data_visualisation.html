@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization</title>
+    <!-- Intégration de Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Load d3.js v5 -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        .tooltip2 {
+          background-color: black;
+          border: none;
+          border-radius: 5px;
+          padding: 15px;
+          min-width: 400px;
+          text-align: left;
+          color: white;
+          opacity: 0;
+          display: inline;
+          position: relative;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="container mx-auto py-8 px-4">
+        <ul class="flex border-b">
+            <li class="-mb-px mr-1">
+                <a class="bg-white inline-block py-2 px-4 font-semibold border-l border-t border-r rounded-t text-gray-700" href="#catalogue">Catalogue</a>
+            </li>
+            <li class="mr-1">
+                <a class="bg-white inline-block py-2 px-4 font-semibold text-gray-500" href="#clients">Clients</a>
+            </li>
+        </ul>
+        <div class="bg-white rounded my-4 p-4">
+            <div id="catalogue" class="tab-content flex flex-col">
+                <h2 class="text-2xl font-semibold mb-4">Catalogue Visualisation</h2>
+                <div id="catalogue_container" class="flex flew-row">
+                    <div id="cars_by_brand" class="mr-4">
+                        <div id="tooltip" style="position: absolute; opacity: 0; background-color: #fff; padding: 5px; border: 1px solid #000; pointer-events: none;"></div>
+                    </div>
+                    <div id="boxplot" class="">
+                    </div>
+                    <div id="filterSelect"></div>
+                <div id="filterPower"></div>
+                </div>
+                
+                <input type="file" id="csvFileInputCat" accept=".csv">
+            </div>
+            <div id="clients" class="hidden tab-content">
+                <!-- Contenu de l'onglet Clients -->
+                <h2 class="text-2xl font-semibold mb-4">Clients Visualisation</h2>
+                <div id="client_container">
+                    <div id="nuageVisu">
+                        <div id="filterAge"><p> Filtrer Age </p></div>
+                        <div id="filterTaux"><p> Filtrer Taux </p></div>
+                        <div id="filterSituation"></div>
+                    </div>
+                </div>  
+                <input type="file" id="csvFileInputCli" accept=".csv">
+            </div>
+        </div>
+    </div>
+    <!-- Include scripts directly in HTML -->
+    <script src="pie_catalogue.js"></script>
+    <script src="visualisation_clients.js"></script>
+
+    <script>
+        // Script pour activer les onglets
+        document.addEventListener('DOMContentLoaded', function() {
+            const tabs = document.querySelectorAll('a');
+            tabs.forEach(tab => {
+                tab.addEventListener('click', function(event) {
+                    event.preventDefault();
+                    const target = this.getAttribute('href');
+                    document.querySelectorAll('.tab-content').forEach(tabContent => {
+                        tabContent.classList.add('hidden');
+                    });
+                    document.querySelector(target).classList.remove('hidden');
+        
+                    // Clear content of the associated container when the tab is clicked
+                    if (target === '#catalogue') {
+                        clearAndReplaceContent('catalogue_container', `
+                            <div id="catalogue_container" class="flex flew-row">
+                                <div id="cars_by_brand" class="mr-4">
+                                    <div id="tooltip" style="position: absolute; opacity: 0; background-color: #fff; padding: 5px; border: 1px solid #000; pointer-events: none;"></div>
+                                </div>
+                                <div id="boxplot" class="">
+                                </div>
+                            </div>
+                        `);
+                        // Écoutez l'événement de changement sur le chargement du fichier
+                        fileInputCat.addEventListener('change', function(event) {
+                            const file = event.target.files[0]; // Obtenez le fichier sélectionné
+                            const reader = new FileReader(); // Créez un objet FileReader
+
+                            // Événement déclenché une fois que le fichier est lu
+                            reader.onload = function(e) {
+                                const content = e.target.result; // Obtenez le contenu du fichier
+
+                                // Exécutez le script une fois que le fichier est lu
+                                visualizeCatalogueData(content);
+                            };
+
+                            // Lisez le contenu du fichier en tant que texte
+                            reader.readAsText(file);
+                        });
+                    }
+                    if (target === '#clients') {
+                        clearAndReplaceContent('client_container', `
+                            <div id="nuageVisu">
+                                <div id="filterAge"><p> Filtrer Age </p></div>
+                                <div id="filterTaux"><p> Filtrer Taux </p></div>
+                                <div id="filterSituation"></div>
+                            </div>
+                        `);
+                        // Écoutez l'événement de changement sur le chargement du fichier
+                        fileInputCli.addEventListener('change', function(event) {
+                            const file = event.target.files[0]; // Obtenez le fichier sélectionné
+                            const reader = new FileReader(); // Créez un objet FileReader
+
+                            // Événement déclenché une fois que le fichier est lu
+                            reader.onload = function(e) {
+                                const content = e.target.result; // Obtenez le contenu du fichier
+
+                                // Exécutez le script une fois que le fichier est lu
+                                visualizeClientsData(content);
+                            };
+
+                            // Lisez le contenu du fichier en tant que texte
+                            reader.readAsText(file);
+                        });
+                    }
+                });
+            });
+    
+            // Simulez un événement de clic sur l'onglet "Catalogue" lors du chargement initial de la page
+            document.querySelector('a[href="#catalogue"]').click();
+        });
+        
+        // Function to clear and replace content inside a container
+        function clearAndReplaceContent(containerId, newContent) {
+            const container = document.getElementById(containerId);
+            console.log(container)
+            if (container) {
+                container.innerHTML = ''; // Clear existing content
+                container.innerHTML = newContent; // Replace with new content
+            }
+        }
+
+        // Obtenez l'élément input de fichier
+        const fileInputCat = document.getElementById('csvFileInputCat');
+        const fileInputCli = document.getElementById('csvFileInputCli');
+
+        
+    </script>
+</body>
+</html>
