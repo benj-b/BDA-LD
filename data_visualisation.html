@@ -36,16 +36,17 @@
         <div class="bg-white rounded my-4 p-4">
             <div id="catalogue" class="tab-content flex flex-col">
                 <h2 class="text-2xl font-semibold mb-4">Catalogue Visualisation</h2>
-                <div id="catalogue_container" class="flex flew-row">
-                    <div id="cars_by_brand" class="mr-4">
-                        <div id="tooltip" style="position: absolute; opacity: 0; background-color: #fff; padding: 5px; border: 1px solid #000; pointer-events: none;"></div>
+                <div id="catalogue_container">
+                    <div class="flex flew-row">
+                        <div id="cars_by_brand" class="mr-4">
+                            <div id="tooltip" style="position: absolute; opacity: 0; background-color: #fff; padding: 5px; border: 1px solid #000; pointer-events: none;"></div>
+                        </div>
+                        <div id="boxplot" class="">
+                        </div>
+                        <div id="filterSelect"></div>
+                    <div id="filterPower"></div>
                     </div>
-                    <div id="boxplot" class="">
-                    </div>
-                    <div id="filterSelect"></div>
-                <div id="filterPower"></div>
                 </div>
-                
                 <input type="file" id="csvFileInputCat" accept=".csv">
             </div>
             <div id="clients" class="hidden tab-content">
@@ -69,6 +70,9 @@
     <script>
         // Script pour activer les onglets
         document.addEventListener('DOMContentLoaded', function() {
+            let fileInputCat = document.getElementById('csvFileInputCat');
+            let fileInputCli = document.getElementById('csvFileInputCli');
+
             const tabs = document.querySelectorAll('a');
             tabs.forEach(tab => {
                 tab.addEventListener('click', function(event) {
@@ -78,66 +82,69 @@
                         tabContent.classList.add('hidden');
                     });
                     document.querySelector(target).classList.remove('hidden');
-        
-                    // Clear content of the associated container when the tab is clicked
+
                     if (target === '#catalogue') {
-                        clearAndReplaceContent('catalogue_container', `
-                            <div id="catalogue_container" class="flex flew-row">
-                                <div id="cars_by_brand" class="mr-4">
-                                    <div id="tooltip" style="position: absolute; opacity: 0; background-color: #fff; padding: 5px; border: 1px solid #000; pointer-events: none;"></div>
-                                </div>
-                                <div id="boxplot" class="">
-                                </div>
-                            </div>
-                        `);
-                        // Écoutez l'événement de changement sur le chargement du fichier
+
+                        // Remove 'change' event listeners from fileInputCli
+                        const cloneCat = fileInputCat.cloneNode(true);
+                        fileInputCat.parentNode.replaceChild(cloneCat, fileInputCat);
+                        fileInputCat = cloneCat;
+
                         fileInputCat.addEventListener('change', function(event) {
-                            const file = event.target.files[0]; // Obtenez le fichier sélectionné
-                            const reader = new FileReader(); // Créez un objet FileReader
+                            const file = event.target.files[0];
+                            const reader = new FileReader();
 
-                            // Événement déclenché une fois que le fichier est lu
                             reader.onload = function(e) {
-                                const content = e.target.result; // Obtenez le contenu du fichier
-
-                                // Exécutez le script une fois que le fichier est lu
+                                const content = e.target.result;
+                                clearAndReplaceContent('catalogue_container', `
+                                    <div class="flex flew-row">
+                                        <div id="cars_by_brand" class="mr-4">
+                                            <div id="tooltip" style="position: absolute; opacity: 0; background-color: #fff; padding: 5px; border: 1px solid #000; pointer-events: none;"></div>
+                                        </div>
+                                        <div id="boxplot" class="">
+                                        </div>
+                                        <div id="filterSelect"></div>
+                                        <div id="filterPower"></div>
+                                    </div>
+                                `);
                                 visualizeCatalogueData(content);
                             };
 
-                            // Lisez le contenu du fichier en tant que texte
                             reader.readAsText(file);
                         });
                     }
+
                     if (target === '#clients') {
-                        clearAndReplaceContent('client_container', `
-                            <div id="nuageVisu">
-                                <div id="filterAge"><p> Filtrer Age </p></div>
-                                <div id="filterTaux"><p> Filtrer Taux </p></div>
-                                <div id="filterSituation"></div>
-                            </div>
-                        `);
-                        // Écoutez l'événement de changement sur le chargement du fichier
+                        // Remove 'change' event listeners from fileInputCli
+                        const cloneCli = fileInputCli.cloneNode(true);
+                        fileInputCli.parentNode.replaceChild(cloneCli, fileInputCli);
+                        fileInputCli = cloneCli;
+
                         fileInputCli.addEventListener('change', function(event) {
-                            const file = event.target.files[0]; // Obtenez le fichier sélectionné
-                            const reader = new FileReader(); // Créez un objet FileReader
+                            const file = event.target.files[0];
+                            const reader = new FileReader();
 
-                            // Événement déclenché une fois que le fichier est lu
                             reader.onload = function(e) {
-                                const content = e.target.result; // Obtenez le contenu du fichier
-
-                                // Exécutez le script une fois que le fichier est lu
+                                const content = e.target.result;
+                                clearAndReplaceContent('client_container', `
+                                    <div id="nuageVisu">
+                                        <div id="filterAge"><p> Filtrer Age </p></div>
+                                        <div id="filterTaux"><p> Filtrer Taux </p></div>
+                                        <div id="filterSituation"></div>
+                                    </div>
+                                `);
                                 visualizeClientsData(content);
                             };
 
-                            // Lisez le contenu du fichier en tant que texte
                             reader.readAsText(file);
                         });
                     }
                 });
             });
-    
-            // Simulez un événement de clic sur l'onglet "Catalogue" lors du chargement initial de la page
+
             document.querySelector('a[href="#catalogue"]').click();
         });
+
         
         // Function to clear and replace content inside a container
         function clearAndReplaceContent(containerId, newContent) {
