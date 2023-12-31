@@ -1,0 +1,1222 @@
+immatriculation,marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix
+3176 TS 67,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+3721 QS 49,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+9099 UV 26,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,true,16029
+3563 LA 55,Peugeot,1007 1.4,75,courte,5,5,blanc,true,9625
+6963 AX 34,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+5592 HQ 89,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+674 CE 26,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+1756 PR 31,Mercedes,A200,136,moyenne,5,5,noir,true,18130
+6705 GX 50,BMW,120i,150,moyenne,5,5,noir,true,25060
+4487 DR 75,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+7080 NW 34,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+9626 HF 36,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+2401 PA 98,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+826 YF 89,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+8216 GR 23,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+8076 YM 23,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+9277 JN 49,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+4231 HC 31,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+2319 IQ 28,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+148 RS 75,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+6786 JV 36,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,gris,false,31790
+8049 KN 17,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+9610 BR 52,Volkswagen,New Beatle 1.8,110,moyenne,5,5,blanc,true,18641
+8745 KJ 12,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+5805 YN 37,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+7341 QB 17,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+9925 TY 41,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+6238 TQ 16,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+4395 AS 40,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+1295 WZ 85,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+3228 PI 22,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+3367 NG 10,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+5784 HC 14,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+6685 TE 75,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+6461 RY 26,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+1498 MN 80,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+4400 IT 29,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+9066 UX 89,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+9075 QO 83,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+826 NJ 62,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+1791 WG 33,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+715 BO 44,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+3484 AH 69,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+9629 ZS 93,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,true,34440
+5620 EV 51,BMW,120i,150,moyenne,5,5,bleu,true,25060
+8548 AJ 17,Kia,Picanto 1.1,65,courte,5,5,gris,false,8990
+1891 YV 82,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+6262 AO 31,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+9721 LN 29,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+8379 YQ 86,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+2021 AV 73,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+699 OU 38,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+2267 LU 10,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+2083 WU 93,BMW,120i,150,moyenne,5,5,blanc,true,25060
+7871 FA 27,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+4800 WC 72,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+9016 HT 57,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+6241 OH 14,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+637 YM 58,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+8728 LC 19,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+7786 DF 35,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+6745 IT 89,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+6828 XD 36,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+4794 CW 30,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+3808 SY 57,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+5169 SB 91,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+1607 XI 11,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+7816 PZ 80,Seat,Toledo 1.6,102,longue,5,5,gris,false,18880
+9557 GA 82,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+8060 IF 62,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+8781 ZN 53,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7833 QR 67,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+3942 CR 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+991 PX 31,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,true,8540
+8104 PH 26,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+7008 RJ 62,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+1823 WV 72,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+3183 NP 36,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+9767 ZE 85,Nissan,Primera 1.6,109,longue,5,5,bleu,false,18650
+7441 ZX 25,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+9725 CK 92,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+4719 JE 92,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+8420 UU 59,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+5458 ZI 65,Fiat,Croma 2.2,147,longue,5,5,noir,true,17346
+1245 MS 32,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+3621 ID 64,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+9245 TY 83,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+1703 IH 38,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+8330 LX 60,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+4165 VK 72,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+6734 XS 84,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+8099 QN 21,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+3378 ZV 24,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+3780 UR 47,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+4964 CC 96,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+2829 LK 71,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+5809 RD 88,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+4054 UQ 46,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+106 GH 18,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+792 GN 90,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+6371 LH 74,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+8223 FW 35,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+8479 FO 37,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+4296 GY 35,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+8869 KY 57,Dacia,Logan 1.6 MPI,90,moyenne,5,5,rouge,false,7500
+8468 QR 34,Daihatsu,Cuore 1.0,58,courte,5,3,bleu,false,8850
+9053 PH 49,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+5027 RJ 56,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8291 EU 42,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+170 LK 17,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+1779 SU 74,BMW,120i,150,moyenne,5,5,bleu,true,25060
+333 WK 43,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+7674 ON 84,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+36 RY 85,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+6363 FI 47,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+1178 NA 62,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+8967 ZF 56,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+7768 EB 21,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8211 DA 42,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,true,8540
+270 KP 31,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+9478 IE 32,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+2267 KD 63,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+9495 RI 78,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+2239 TU 93,Kia,Picanto 1.1,65,courte,5,5,bleu,false,8990
+7218 DS 96,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+7951 TN 33,Saab,9.3 1.8T,150,longue,5,5,gris,false,38600
+9924 GF 12,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+8897 IM 28,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+3146 VN 37,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+2395 WP 23,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+6502 RU 81,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+6120 WB 67,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+4489 IF 20,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,false,22350
+7250 VB 26,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+6089 YD 23,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+4376 LD 76,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+1820 XW 89,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+7257 HJ 74,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+2955 HU 44,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+2071 JM 16,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+6576 YJ 48,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5605 RS 79,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+3863 IC 36,Seat,Toledo 1.6,102,longue,5,5,noir,false,18880
+2169 YM 28,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+112 ET 45,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644
+6026 YN 96,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8747 QZ 21,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+1074 TF 86,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+7162 LA 61,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+5244 SL 41,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+7426 WR 20,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+8406 VT 55,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+3081 ZH 30,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+7040 KD 76,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+4953 OT 22,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+4955 MI 92,Mercedes,A200,136,moyenne,5,5,bleu,true,18130
+1339 YU 79,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+9035 SG 50,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+6237 YK 22,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+2789 VP 59,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+8812 TL 10,Fiat,Croma 2.2,147,longue,5,5,gris,true,17346
+6785 TY 77,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+570 FM 88,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+2168 VZ 83,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+9992 MN 31,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+8374 TQ 82,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+2188 PD 88,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+9177 KE 14,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+4652 HR 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+1199 RU 51,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+2017 ZT 38,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+2300 CB 11,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+517 BG 91,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+7841 XQ 21,Mercedes,A200,136,moyenne,5,5,gris,true,18130
+4084 EK 21,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+9349 AE 15,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+6926 YG 11,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+6432 VZ 10,Mercedes,S500,306,tr�s longue,5,5,noir,false,101300
+4403 OJ 28,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+4538 OF 25,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+2997 VL 34,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+336 LC 93,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+6681 PE 35,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+1759 AA 57,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+8086 ND 56,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+9222 SZ 73,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+4611 DT 51,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+280 MC 11,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+8125 BO 29,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+743 WB 69,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+4094 AY 82,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+7914 LN 91,Nissan,Primera 1.6,109,longue,5,5,blanc,false,18650
+6390 OL 87,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+4839 GE 68,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+1558 HQ 39,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+1577 UC 91,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+6928 RE 49,Daihatsu,Cuore 1.0,58,courte,5,3,blanc,false,8850
+6426 PI 23,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+8840 NC 42,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+5641 CZ 65,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+2901 MI 64,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+4646 KG 67,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+160 NJ 93,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8193 NW 72,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+7778 BZ 71,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+2734 AP 24,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+3354 DY 95,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+9042 RD 81,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+3013 HG 64,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+6758 PS 94,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+6116 QX 23,BMW,120i,150,moyenne,5,5,blanc,true,25060
+2387 VX 35,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+9673 PF 81,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+2501 ZR 93,Kia,Picanto 1.1,65,courte,5,5,gris,false,8990
+9849 ZS 30,BMW,120i,150,moyenne,5,5,gris,true,25060
+1672 YW 92,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8826 HJ 77,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+797 BB 20,Mercedes,S500,306,tr�s longue,5,5,blanc,false,101300
+4278 UX 82,Nissan,Almera 1.8,115,moyenne,5,5,bleu,false,16450
+4069 YT 38,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+5494 ZJ 77,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+9620 WP 82,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+9128 LQ 87,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+9247 OZ 98,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+3353 SQ 40,Kia,Picanto 1.1,65,courte,5,5,rouge,false,8990
+1262 EF 53,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+1611 XI 15,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+1914 SN 75,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+2624 DB 20,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+4031 NT 81,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+3964 FE 53,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+859 CX 74,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+966 LM 32,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+5821 BL 21,BMW,120i,150,moyenne,5,5,rouge,true,25060
+2791 YD 87,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+7558 RS 97,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+1513 VJ 74,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+650 WG 92,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+9672 ON 34,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+7136 YM 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5220 RC 44,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+8573 ZR 27,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+5805 RD 25,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+7517 FG 65,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+789 GI 93,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+9722 UT 50,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+2897 MK 28,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+7730 PJ 75,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+6568 GY 97,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+244 GC 23,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+8433 OB 38,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+1011 JO 95,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+4921 ZK 98,Daihatsu,Cuore 1.0,58,courte,5,3,blanc,false,8850
+6641 JV 74,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+4890 PV 34,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+341 KY 70,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,true,16029
+6373 BB 64,Fiat,Croma 2.2,147,longue,5,5,noir,true,17346
+389 UN 33,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+9192 UK 57,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+7276 AT 61,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+8280 PP 40,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+2261 GI 64,Saab,9.3 1.8T,150,longue,5,5,noir,false,38600
+168 KK 74,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+13 FQ 59,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+2831 GQ 12,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+7476 GS 20,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+5638 XA 24,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+1484 DS 42,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+8247 FB 66,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+5368 YW 34,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+7087 IV 39,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+6190 GG 79,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+8604 BD 13,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,true,15644
+2997 VG 52,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+5246 LL 53,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+1095 QF 19,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+3770 UH 68,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+8351 NP 82,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+3666 TJ 27,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+7468 MU 11,Dacia,Logan 1.6 MPI,90,moyenne,5,5,rouge,false,7500
+9277 TM 45,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+6844 CI 87,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+1765 MC 44,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+8113 VK 84,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,blanc,false,30000
+9316 SQ 26,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+4223 QC 14,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,gris,false,31790
+2629 FK 42,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,true,34440
+3163 GP 24,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+2857 UR 94,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+9549 PZ 11,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+2510 GL 25,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+830 AV 39,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+6985 RB 39,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8586 DJ 19,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+8173 DG 19,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+7039 SO 71,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+4545 LY 98,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+380 YQ 81,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+6414 XL 62,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+6882 ET 65,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+4958 OC 25,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+4726 UA 62,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+3582 IO 64,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+7036 UY 84,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+6076 AC 66,Mercedes,A200,136,moyenne,5,5,gris,true,18130
+3117 WL 51,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+4905 UO 62,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+5921 WM 91,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+1399 MF 36,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+117 BQ 72,Mini,Copper 1.6 16V,115,courte,5,5,blanc,false,18200
+7051 OM 43,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+2566 XX 55,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+3292 XW 91,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+9572 WQ 27,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+7185 PI 60,Mini,Copper 1.6 16V,115,courte,5,5,blanc,true,12740
+7120 LC 67,Peugeot,1007 1.4,75,courte,5,5,gris,true,9625
+3751 RA 32,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+8765 EG 22,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+5657 TA 66,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+7810 KE 87,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+8965 EM 49,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+6197 XE 26,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+1053 WR 32,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+3585 QA 73,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+2547 NI 72,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+1185 JD 18,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+5643 GG 12,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+4466 UE 98,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+6700 LR 24,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+5732 NU 76,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+5407 HD 88,Fiat,Croma 2.2,147,longue,5,5,rouge,true,17346
+9849 ZL 28,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+8846 QI 59,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+2228 DQ 69,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+853 FB 95,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+6731 FX 30,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+4660 ZQ 15,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+6533 AX 96,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+3707 XZ 58,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+8029 SA 37,Mini,Copper 1.6 16V,115,courte,5,5,bleu,false,18200
+6188 RN 67,Fiat,Croma 2.2,147,longue,5,5,gris,true,17346
+3724 XZ 15,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+2077 EB 26,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+2210 ZC 59,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+258 ZA 26,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+6813 DG 50,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+70 FW 56,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+7055 ZS 23,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5235 XE 13,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,gris,false,31790
+4012 SJ 48,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+9940 OA 56,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+5049 RI 65,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+3850 MF 77,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+9390 QF 34,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+3604 FQ 80,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+5172 TL 81,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+6564 SF 14,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+8776 KY 20,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,noir,false,30000
+7905 CJ 35,Nissan,Almera 1.8,115,moyenne,5,5,noir,false,16450
+9477 MV 92,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+8799 YN 34,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+1357 QA 15,Kia,Picanto 1.1,65,courte,5,5,rouge,false,8990
+792 KL 15,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+4561 TH 72,Nissan,Primera 1.6,109,longue,5,5,blanc,false,18650
+7110 FA 24,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+5939 ZH 62,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+8678 EU 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+6507 IG 14,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+6086 WA 81,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+9662 QS 35,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+6118 MN 97,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+1928 AL 56,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+5563 IH 96,Renault,Laguna 2.0T,170,longue,5,5,bleu,true,19110
+2803 XX 51,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+1671 KC 59,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+9277 NC 97,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+2450 ZZ 36,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+9846 KH 23,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+9923 ZO 57,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+5823 MU 54,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+1543 VC 87,Nissan,Primera 1.6,109,longue,5,5,noir,false,18650
+891 NK 23,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+3065 YB 26,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+6977 JX 53,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+4023 IW 98,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+6919 PV 54,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+9779 ID 29,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+7208 RJ 82,Mercedes,A200,136,moyenne,5,5,gris,true,18130
+911 RF 69,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+3039 MZ 35,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+4079 BV 37,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+2809 QY 82,Seat,Toledo 1.6,102,longue,5,5,gris,false,18880
+4442 WN 19,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+8711 ZW 81,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+9225 WC 24,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+3929 WJ 64,Kia,Picanto 1.1,65,courte,5,5,blanc,false,8990
+9430 MM 89,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+8195 XZ 69,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+6446 EY 91,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+2427 WY 11,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7503 IL 54,Seat,Toledo 1.6,102,longue,5,5,rouge,false,18880
+2984 LR 21,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+4618 VY 42,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+7620 QS 72,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+6225 MG 76,Ford,Mondeo 1.8,125,longue,5,5,noir,false,23900
+219 XR 37,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+2442 TW 53,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+6409 UI 97,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+7945 NY 70,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+8911 LL 27,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+5561 DB 17,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+7215 IX 44,Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,false,26630
+4644 UF 39,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,true,16029
+9931 CN 22,Seat,Toledo 1.6,102,longue,5,5,blanc,false,18880
+4822 CY 54,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+4969 HA 94,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+6781 KI 62,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+3265 WJ 47,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+747 HN 55,Mercedes,A200,136,moyenne,5,5,gris,false,25900
+3948 SV 65,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+210 LW 42,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+1159 QM 54,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+5910 IF 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+3998 RF 69,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+8398 AE 48,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+1776 VP 85,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,gris,false,31790
+4803 VL 10,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+8497 AQ 19,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+7743 ZJ 86,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+4499 ZD 79,Saab,9.3 1.8T,150,longue,5,5,gris,false,38600
+239 CB 21,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+8875 AM 59,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+7617 LQ 51,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+8050 WE 36,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,blanc,false,30000
+5830 BM 58,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+3137 ZQ 14,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+2993 GU 74,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6963 KQ 94,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+7157 KR 78,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+9494 CT 58,BMW,120i,150,moyenne,5,5,noir,true,25060
+6762 AK 30,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+5754 QX 36,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+4888 OV 60,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+6159 AE 75,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+5065 TH 29,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+4747 YK 37,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5227 WA 86,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+1282 FD 82,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+5388 LN 70,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+2011 PU 64,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+2651 JL 61,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+8481 VM 98,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+9853 HG 72,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+3775 YU 56,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+2134 QL 31,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+8386 DC 18,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+9083 OF 84,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+1371 RC 36,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+6950 ON 13,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+9802 KC 22,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+609 GO 30,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+2419 EY 40,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+8953 BG 85,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+3676 ZP 56,Lancia,Ypsilon 1.4 16V,90,courte,5,3,bleu,false,13500
+108 II 45,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+29 DM 97,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+3947 BE 79,Kia,Picanto 1.1,65,courte,5,5,bleu,false,8990
+8846 AI 27,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+4920 GQ 48,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+2811 ID 61,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,blanc,false,30000
+4521 CB 58,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+7379 GV 84,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+1570 AS 97,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+1572 QT 60,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,bleu,false,30000
+5614 ED 19,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+7617 YW 58,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+2487 VA 91,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+5404 CQ 13,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+4297 DO 93,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+4299 UF 43,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+8850 IM 19,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+278 FZ 60,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+4500 CB 27,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+3382 JM 74,Audi,A3 2.0 FSI,150,moyenne,5,5,gris,false,28500
+7537 MU 35,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+2936 OJ 94,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7310 QA 10,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+8728 ZI 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+1984 UI 97,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+9446 AA 45,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+3841 KR 33,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+211 XG 84,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+7451 EI 49,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7652 IB 89,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+4075 GE 98,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+7934 BO 79,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+6111 FC 10,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+7416 JK 58,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+6856 EU 75,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+4459 IY 41,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+8728 LM 26,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+1572 NP 43,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+3541 BP 36,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+769 OV 38,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+2884 HX 75,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+4031 FT 96,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+446 MZ 84,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+5346 ZX 85,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+109 ZF 18,Renault,Laguna 2.0T,170,longue,5,5,gris,true,19110
+3661 DC 10,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+3583 VH 49,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+9189 WM 56,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+2642 IN 68,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+3841 XK 82,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+2534 HF 20,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+8668 PR 54,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+3038 QL 81,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+49 BP 36,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+7950 BP 77,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+6782 AV 38,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+2141 RE 22,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+7985 WU 46,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+5828 IE 16,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+8989 CW 88,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+2926 DX 13,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+214 KW 77,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+3110 OY 24,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+1280 MU 46,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+7643 HL 28,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+9171 YP 38,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+9566 PW 77,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+1577 IR 31,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+2225 PR 44,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+8094 IR 48,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+474 MG 47,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+2879 DL 54,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+9773 YY 73,Saab,9.3 1.8T,150,longue,5,5,noir,false,38600
+3451 VK 70,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+3205 SO 40,Renault,Laguna 2.0T,170,longue,5,5,bleu,true,19110
+3636 DN 14,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+1724 WP 32,Nissan,Primera 1.6,109,longue,5,5,gris,false,18650
+3631 EP 70,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+6894 DH 25,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+8559 MN 67,BMW,120i,150,moyenne,5,5,noir,true,25060
+7530 EX 66,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+4269 MJ 85,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7296 PY 54,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+6099 TQ 62,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+2579 TM 56,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+6539 GL 72,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+3239 ST 35,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+8564 RT 27,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,bleu,false,30000
+4867 XH 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+3309 OL 34,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+7921 LU 11,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+5784 QL 94,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+9401 CK 66,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+2392 MG 10,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+4761 FI 47,Peugeot,1007 1.4,75,courte,5,5,gris,true,9625
+7938 HQ 81,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+6431 EQ 24,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+3487 JP 57,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+6684 HP 92,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+5288 LH 27,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+6786 ZH 59,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+8104 SC 44,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+7783 LZ 26,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+1981 CK 93,Nissan,Almera 1.8,115,moyenne,5,5,noir,false,16450
+6000 MI 98,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+6167 XC 55,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+6854 XW 81,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+8775 DF 88,Ford,Mondeo 1.8,125,longue,5,5,noir,false,23900
+9603 JJ 32,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+7969 EG 24,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+3717 NC 13,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+2298 CQ 82,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+6650 HE 84,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+2281 NZ 77,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+4226 BG 79,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+8073 CR 50,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+368 SU 59,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+7333 AP 33,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+3865 NY 49,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+7707 PH 23,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+930 XS 25,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+3081 CE 12,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+6853 UB 81,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+9395 EO 63,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+380 VV 49,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+2106 HZ 31,Dacia,Logan 1.6 MPI,90,moyenne,5,5,gris,false,7500
+3300 DB 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+9269 LF 86,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+1931 BE 16,Renault,Laguna 2.0T,170,longue,5,5,gris,true,19110
+7628 ON 53,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+2195 JG 82,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+7527 JH 63,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+7132 EZ 37,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+3331 CX 16,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+2972 FJ 16,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+1117 MZ 54,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+8842 CT 15,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+3428 MX 57,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+5023 AS 93,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+1594 DI 98,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5219 ZK 18,Kia,Picanto 1.1,65,courte,5,5,gris,false,8990
+7587 GG 61,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+8053 IJ 81,Lancia,Ypsilon 1.4 16V,90,courte,5,3,noir,false,13500
+933 XI 91,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,true,8540
+691 WB 20,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+2054 RA 87,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8973 ZH 18,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+5585 CS 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+8374 VW 70,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+9632 JF 10,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+4499 MV 21,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+4354 JA 11,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+7273 XA 14,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+6150 JQ 90,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+6274 CE 63,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+1262 VS 89,Saab,9.3 1.8T,150,longue,5,5,noir,false,38600
+280 BB 21,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+6397 ZM 18,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+7400 JX 47,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+5369 DY 40,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+2865 QE 50,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+4937 GL 68,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+6530 EU 54,Mercedes,S500,306,tr�s longue,5,5,rouge,false,101300
+5975 UW 57,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+3806 LN 26,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+3230 AJ 22,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+7419 NX 54,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+7932 ND 52,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+9822 XJ 85,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+2049 LW 33,BMW,120i,150,moyenne,5,5,rouge,true,25060
+1792 IC 12,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+2718 QN 46,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+9964 BD 92,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+6903 LJ 56,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+8190 GO 67,Seat,Toledo 1.6,102,longue,5,5,noir,false,18880
+881 RV 79,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+4964 IQ 21,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+7411 TM 47,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,false,22900
+6224 KI 68,BMW,120i,150,moyenne,5,5,bleu,true,25060
+5225 MO 87,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+7044 QQ 59,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+5452 VO 96,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+9109 KA 62,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+3114 AV 70,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+2201 UI 94,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+5908 AO 33,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+1112 AG 34,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+3418 YN 83,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+3261 QB 72,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+3840 LU 17,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+7205 WZ 60,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,true,34440
+5725 AA 38,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6990 PD 41,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+86 RM 88,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+1753 MH 84,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+8359 HH 89,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+3897 SG 66,Fiat,Croma 2.2,147,longue,5,5,rouge,true,17346
+2809 YV 54,Mini,Copper 1.6 16V,115,courte,5,5,blanc,false,18200
+737 IW 62,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+4396 UV 29,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+825 WR 51,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+3311 RV 33,Mercedes,S500,306,tr�s longue,5,5,blanc,false,101300
+2410 BZ 75,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+3218 OX 65,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+2092 WC 82,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+9082 IA 90,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+126 EJ 68,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,true,16029
+1453 FW 40,Fiat,Croma 2.2,147,longue,5,5,noir,true,17346
+6478 SC 65,BMW,120i,150,moyenne,5,5,gris,true,25060
+5185 WY 94,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+5836 YU 92,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+1729 XU 77,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+1435 OO 36,Renault,Laguna 2.0T,170,longue,5,5,blanc,true,19110
+519 RK 68,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7904 PI 94,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+7363 TT 89,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+6097 DU 53,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+5538 CP 31,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+6406 JW 50,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+902 OQ 28,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+3946 RM 70,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+4388 JY 10,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+9514 VP 46,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+817 ZW 78,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+1828 LG 73,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+3380 AN 97,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+2282 HF 32,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+1351 UC 14,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+7164 BS 12,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+9766 JC 28,Nissan,Primera 1.6,109,longue,5,5,noir,false,18650
+5969 IH 12,Nissan,Almera 1.8,115,moyenne,5,5,bleu,false,16450
+5693 NS 81,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+9294 EP 80,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+3613 LT 18,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+8476 GL 17,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+8919 LJ 58,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5686 PD 34,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+6703 OT 21,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+7352 SZ 86,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+8346 GR 36,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+9121 XE 95,Lancia,Ypsilon 1.4 16V,90,courte,5,3,noir,false,13500
+463 PD 47,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+9905 AE 31,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+1338 GX 44,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+2747 MB 95,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+340 RO 21,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+1699 ZR 95,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+4491 QH 27,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+1201 LV 57,Seat,Toledo 1.6,102,longue,5,5,bleu,false,18880
+2320 PI 23,Nissan,Almera 1.8,115,moyenne,5,5,bleu,false,16450
+7084 IZ 12,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+9843 KR 37,Audi,A3 2.0 FSI,150,moyenne,5,5,gris,true,19950
+9904 KI 96,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+2729 QT 86,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+2152 RJ 72,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+7366 UZ 78,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+7139 SG 83,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+6003 QJ 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+3714 UR 78,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+7576 BI 34,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+2168 JW 77,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+1490 JJ 62,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+7592 YH 72,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,true,34440
+8174 PG 69,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+7178 CL 91,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+2427 YI 90,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+1367 FL 54,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+6588 WI 41,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+3128 BB 38,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+3347 WP 55,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+3322 ZF 10,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+2407 VD 10,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+9787 WR 41,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+4542 FM 24,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+4302 FM 73,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+1635 RE 12,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+3635 LU 39,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+33 PI 51,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+8991 PZ 56,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+6565 JJ 40,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+3146 OX 72,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+2879 EE 42,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+1387 GS 68,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+8929 FR 33,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+4126 GI 80,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+4478 IS 95,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+2798 NC 32,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+1692 RY 41,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+7402 OI 20,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+7026 WW 10,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+9907 PF 54,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+7210 VL 40,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+1452 YA 68,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+3023 GB 47,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+8473 MV 64,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+7312 NA 76,Renault,Laguna 2.0T,170,longue,5,5,gris,true,19110
+4240 TI 97,Mercedes,A200,136,moyenne,5,5,noir,false,25900
+7547 LH 66,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+2954 LH 86,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+7298 DV 70,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+2994 XM 27,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+5209 JP 65,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+1236 DM 85,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+3125 KA 20,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6399 KB 30,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+2877 PQ 97,Renault,Laguna 2.0T,170,longue,5,5,blanc,true,19110
+3987 EU 70,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+1261 BS 35,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+2451 FK 30,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+7694 IJ 41,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+196 UR 97,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+2863 PH 67,Kia,Picanto 1.1,65,courte,5,5,bleu,false,8990
+8972 HX 22,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+3838 VU 28,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+3347 MQ 16,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+6543 QO 31,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+9396 TO 14,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+2243 QH 21,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+8764 EY 36,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+5906 FO 50,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+5242 CP 27,Mini,Copper 1.6 16V,115,courte,5,5,blanc,true,12740
+5953 QX 66,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+2749 OV 70,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+9580 XC 51,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+4153 ID 62,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+8653 BX 37,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+8817 NU 34,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+5650 AE 71,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+3357 IN 47,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+3034 FM 20,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+6198 WK 73,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+728 WR 55,Seat,Toledo 1.6,102,longue,5,5,rouge,false,18880
+5365 WA 90,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+8094 KW 74,Audi,A3 2.0 FSI,150,moyenne,5,5,rouge,true,19950
+4759 DP 67,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+1987 UJ 30,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+9435 WX 22,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+3037 WI 38,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+7249 XJ 52,Volkswagen,New Beatle 1.8,110,moyenne,5,5,blanc,false,26630
+5159 QU 76,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+1260 EE 49,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+3292 VT 35,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+2961 HB 23,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+9593 YO 92,Saab,9.3 1.8T,150,longue,5,5,blanc,false,38600
+9606 CA 15,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+718 PR 88,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+9859 TY 42,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+477 QP 15,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+771 QB 76,Saab,9.3 1.8T,150,longue,5,5,gris,false,38600
+5465 KB 37,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+419 ZP 50,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+4920 TU 77,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+4850 MO 66,Audi,A3 2.0 FSI,150,moyenne,5,5,noir,true,19950
+3377 HG 22,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+3695 ME 73,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+7470 IP 27,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+9294 UL 74,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+7163 RI 61,Saab,9.3 1.8T,150,longue,5,5,blanc,false,38600
+8659 SD 39,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+756 WF 90,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+9364 DB 98,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+9882 ZU 34,Saab,9.3 1.8T,150,longue,5,5,noir,false,38600
+4106 VG 39,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+5007 UH 34,Seat,Toledo 1.6,102,longue,5,5,noir,false,18880
+656 BU 32,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+7268 CD 47,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+2258 FF 47,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+4082 RE 80,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+9007 TL 42,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+9950 AB 46,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+6423 BX 33,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+3474 XJ 94,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+1022 TD 64,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+6618 PX 24,Mercedes,S500,306,tr�s longue,5,5,noir,false,101300
+7350 JZ 38,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6084 MM 24,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+5992 UR 79,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+4943 EI 64,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+5867 WZ 49,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+6828 KE 62,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+4411 LE 21,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+7424 FI 72,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,true,15644
+7315 PU 32,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+8047 GT 89,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+819 HP 68,Mercedes,A200,136,moyenne,5,5,blanc,false,25900
+2578 XA 78,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+9082 UJ 93,BMW,120i,150,moyenne,5,5,gris,true,25060
+6017 PS 80,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+156 BX 11,Seat,Toledo 1.6,102,longue,5,5,noir,false,18880
+7897 TX 71,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+5740 AS 13,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+3175 EI 79,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+1523 IJ 13,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+7611 YB 51,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+1271 SS 76,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+70 JU 61,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+5748 PD 66,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+811 AH 34,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+8470 VL 82,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+6993 ME 33,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+7340 HI 69,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+9262 HQ 93,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+7670 QQ 75,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+7613 VR 92,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+8664 EA 26,Mini,Copper 1.6 16V,115,courte,5,5,rouge,false,18200
+4297 MV 31,Nissan,Almera 1.8,115,moyenne,5,5,rouge,false,16450
+8324 DK 77,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+8143 KV 81,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+8867 EO 28,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+9088 JS 34,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+8732 NS 22,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+4300 XA 91,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+4651 HA 17,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+3191 JJ 98,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+667 RD 71,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+4247 NA 80,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+6156 HU 80,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+3827 HC 28,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+1661 BF 66,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+6069 RO 21,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+1346 AW 79,Mercedes,A200,136,moyenne,5,5,bleu,true,18130
+5193 JY 90,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+4479 GR 35,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,noir,false,30000
+5323 MU 16,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+602 YU 58,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+6812 RI 70,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+940 KQ 54,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+1965 GF 36,Volkswagen,New Beatle 1.8,110,moyenne,5,5,rouge,false,26630
+112 NA 55,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+274 BC 76,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+626 CI 53,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+4161 NX 31,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+5841 IS 80,Mercedes,A200,136,moyenne,5,5,noir,false,25900
+832 OX 67,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+6158 RR 27,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+89 XS 25,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+3210 ZO 93,Seat,Toledo 1.6,102,longue,5,5,blanc,false,18880
+5976 EY 97,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+107 LU 14,Fiat,Croma 2.2,147,longue,5,5,gris,true,17346
+4251 PO 80,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+4887 RB 41,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+2129 EL 58,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+3414 AQ 46,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+9451 MC 76,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+1076 GL 81,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+8526 BL 67,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+4076 CF 96,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+9135 TG 21,BMW,120i,150,moyenne,5,5,rouge,true,25060
+9229 VY 36,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+5988 IV 68,Volvo,S80 T6,272,tr�s longue,5,5,rouge,true,35350
+3081 UA 57,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+6729 LZ 19,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+3984 FJ 92,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+9848 PD 67,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+3849 TV 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+4847 XB 79,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+5946 LB 19,Nissan,Almera 1.8,115,moyenne,5,5,gris,false,16450
+8862 WS 89,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+202 IN 70,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+9046 FH 74,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+2885 GW 95,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+7818 UM 83,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+3639 KH 54,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+7425 PM 41,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+6639 TE 34,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+3841 XY 13,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,true,16029
+1374 ZB 80,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8821 TV 36,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+8261 ZE 58,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+1336 EI 97,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+8666 IQ 14,BMW,120i,150,moyenne,5,5,gris,true,25060
+8919 MO 88,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+3699 FN 94,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+2803 YR 16,Seat,Toledo 1.6,102,longue,5,5,noir,false,18880
+488 KS 46,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+3708 OR 34,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+6405 FX 87,Seat,Toledo 1.6,102,longue,5,5,bleu,false,18880
+3238 VB 20,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+2357 JO 37,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+231 ZO 69,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+6375 ZU 73,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+1766 ZN 75,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+1901 YC 91,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+9662 KJ 60,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+5480 TW 97,Seat,Toledo 1.6,102,longue,5,5,blanc,false,18880
+6264 WR 45,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+812 RS 61,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+3524 MN 16,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+9714 TT 56,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+4816 BQ 33,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8000 PV 26,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+5326 VP 55,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+5346 DQ 27,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+4978 EI 25,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+3525 JV 57,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,true,16029
+7682 MB 48,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+5190 HA 48,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+4884 MY 53,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+4070 RX 38,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+498 QD 65,Seat,Toledo 1.6,102,longue,5,5,bleu,false,18880
+6360 RH 14,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+1688 UI 44,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+545 WE 72,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+4292 OG 58,Fiat,Croma 2.2,147,longue,5,5,gris,true,17346
+6775 HG 18,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+2149 MN 85,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+6739 AP 31,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+2253 IN 42,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+4510 IX 57,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+1023 GN 54,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+2262 NV 91,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+2208 YJ 96,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+2490 ZP 45,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+1065 OP 47,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+6074 UA 35,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+9747 GN 87,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+2951 QU 90,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+9449 ML 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+7384 HI 17,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+7913 YR 69,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+4899 VC 98,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+9715 PQ 76,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,true,16029
+319 ZN 32,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+5735 QP 77,Mini,Copper 1.6 16V,115,courte,5,5,rouge,true,12740
+7992 PN 42,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+2507 IO 55,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+1770 EB 92,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+9187 NT 91,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+6277 FZ 47,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+3078 CF 66,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+7927 XB 74,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+4063 AB 44,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+6884 YC 26,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+7929 SE 51,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+7233 OT 37,Mercedes,S500,306,tr�s longue,5,5,noir,false,101300
+2690 EK 90,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+8132 HO 64,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+520 NI 43,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+6822 DK 73,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+1982 LL 48,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+2896 AL 26,Dacia,Logan 1.6 MPI,90,moyenne,5,5,bleu,false,7500
+5528 MM 22,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+369 FJ 38,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+250 RK 31,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+2693 MW 82,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+828 YB 22,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+4479 FO 95,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+3976 WD 66,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+6656 VZ 83,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+5674 FU 29,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+5820 BK 39,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+5551 JF 28,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+8748 AZ 51,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+4182 ML 96,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+9958 RX 32,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+4065 PR 96,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+9366 DQ 57,BMW,120i,150,moyenne,5,5,blanc,true,25060
+3732 HG 81,Mini,Copper 1.6 16V,115,courte,5,5,bleu,false,18200
+9577 HY 48,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+5749 SG 73,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+2972 PT 29,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+9914 UP 82,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+2032 QT 22,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6781 QF 85,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+7705 TW 41,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+5787 VR 20,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+7642 LK 35,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+2672 UY 39,Ford,Mondeo 1.8,125,longue,5,5,bleu,true,16730
+9514 SS 37,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+6476 HX 38,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+2097 KW 70,Mercedes,A200,136,moyenne,5,5,noir,true,18130
+2160 OB 83,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+5179 LL 27,BMW,120i,150,moyenne,5,5,gris,true,25060
+2897 IO 39,Seat,Toledo 1.6,102,longue,5,5,bleu,false,18880
+4739 HD 62,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+2596 FY 55,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+7513 AS 29,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+1103 LU 52,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+9532 ZU 17,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+9406 IM 39,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+8816 LC 82,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+8667 WZ 11,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,true,15644
+2985 ON 57,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+7365 TX 76,BMW,120i,150,moyenne,5,5,blanc,true,25060
+3358 VC 63,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,true,15644
+6025 UD 30,Mercedes,A200,136,moyenne,5,5,blanc,false,25900
+9958 PS 25,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+923 UA 68,Ford,Mondeo 1.8,125,longue,5,5,bleu,true,16730
+5837 KJ 95,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+7102 GR 20,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+5872 FG 11,Fiat,Croma 2.2,147,longue,5,5,blanc,true,17346
+6791 WL 42,Volkswagen,New Beatle 1.8,110,moyenne,5,5,gris,true,18641
+2764 PB 49,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+8957 PX 71,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+7010 WQ 22,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+427 TF 51,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+3078 RS 26,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+9180 MF 23,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+6939 GK 92,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+5230 IX 89,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,true,16029
+3816 FA 30,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+8383 DB 89,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+405 CS 74,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+6963 WE 10,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+1806 WW 88,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+6075 CO 90,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+110 JT 23,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+4846 BQ 33,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+2661 TH 15,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,true,34440
+1236 CD 33,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+3187 OB 66,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+1109 JM 70,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+3401 TN 93,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+6622 EN 14,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+8238 HU 69,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+7515 VA 79,Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,true,18641
+1928 JC 16,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+4542 KB 54,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+7022 GC 46,Mercedes,S500,306,tr�s longue,5,5,rouge,false,101300
+5334 CZ 78,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+5021 VB 68,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+6840 UI 36,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+9791 IR 88,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+7194 RC 73,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+2740 OB 62,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+5698 CK 22,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+4797 YC 14,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+1946 AA 34,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+4363 WZ 15,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+63 UV 37,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+4564 KX 73,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+8093 BN 98,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+2158 TW 93,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+484 PD 31,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6786 BV 53,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+5190 IC 49,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+5241 VB 82,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+3701 JN 71,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+7666 SE 79,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+617 AP 19,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+2458 AR 69,Lancia,Ypsilon 1.4 16V,90,courte,5,3,gris,true,9450
+6872 FV 12,Mercedes,A200,136,moyenne,5,5,bleu,false,25900
+481 TA 71,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+2828 KW 82,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+9547 TJ 54,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+3792 CB 70,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+5100 ZI 12,Mercedes,S500,306,tr�s longue,5,5,blanc,false,101300
+7698 PP 52,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+5707 LG 87,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+1170 VV 29,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+3055 QQ 81,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+5393 ZP 15,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+9204 DM 89,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+7251 WS 88,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+9511 ZS 72,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+4301 WY 13,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+9365 ZA 81,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+8198 CP 70,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+1120 ND 25,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+4106 VX 15,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+6153 EU 83,Saab,9.3 1.8T,150,longue,5,5,gris,false,38600
+8130 JJ 57,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+3062 IC 38,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+28 BM 95,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+2717 SV 13,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+3673 MT 65,Volvo,S80 T6,272,tr�s longue,5,5,rouge,true,35350
+4071 ZK 94,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+105 LS 54,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+7038 NZ 16,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+2528 NQ 43,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+8462 LO 22,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+7733 ZK 44,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+2311 FB 57,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+8861 UW 21,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+9192 FU 97,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+5875 MZ 27,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+8629 VO 37,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+2099 YQ 53,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+6434 MS 74,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+7802 ZJ 59,BMW,120i,150,moyenne,5,5,rouge,true,25060
+8358 KZ 74,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+2983 IQ 82,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+9528 EI 44,Volvo,S80 T6,272,tr�s longue,5,5,rouge,true,35350
+7165 SG 79,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+6885 BD 28,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+5262 DU 24,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+3911 QY 50,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+2225 MV 72,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+6494 FH 95,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+7756 KP 62,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+7163 QE 19,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+5337 UH 29,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+6048 QK 24,Nissan,Primera 1.6,109,longue,5,5,bleu,false,18650
+3365 XI 32,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+3265 QB 44,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+9740 YL 58,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+501 FJ 30,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+7918 YV 81,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+1844 JW 24,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+2797 WI 81,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+1258 MA 13,Kia,Picanto 1.1,65,courte,5,5,rouge,false,8990
+8204 FK 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+9555 TG 61,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+7937 FI 88,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+9436 ZI 41,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+7555 GN 63,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+5144 JV 24,BMW,120i,150,moyenne,5,5,gris,true,25060
+3435 UE 75,BMW,120i,150,moyenne,5,5,gris,true,25060
+4856 EZ 11,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+5431 SH 24,Daihatsu,Cuore 1.0,58,courte,5,3,blanc,false,8850
+577 EV 53,Saab,9.3 1.8T,150,longue,5,5,blanc,false,38600
+4802 OE 91,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+5738 BG 78,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+1453 KS 29,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,true,16029
+3610 GZ 70,Mini,Copper 1.6 16V,115,courte,5,5,blanc,true,12740
+2633 RE 56,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+782 EF 48,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+7434 ER 28,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+6816 MW 89,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+8037 YM 34,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+6912 TX 41,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+7794 JP 82,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+6511 NO 30,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+9450 CZ 50,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+7135 CG 35,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+3049 JE 89,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,noir,false,30000
+3252 IN 34,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+5580 LR 98,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+773 AK 79,Mercedes,A200,136,moyenne,5,5,bleu,true,18130
+4804 XU 70,Saab,9.3 1.8T,150,longue,5,5,gris,false,38600
+7978 CW 37,Fiat,Croma 2.2,147,longue,5,5,gris,true,17346
+3777 FB 97,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+9663 FR 67,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+4984 LS 87,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+3776 DQ 38,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+9437 HA 68,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,false,22900
+4395 ST 39,Renault,Laguna 2.0T,170,longue,5,5,blanc,true,19110
+3465 NS 90,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+7392 XV 37,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+2164 NJ 92,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+7875 WA 58,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+1243 VR 67,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+2056 EY 90,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+3419 EB 60,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+2022 SG 92,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+5939 MC 68,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+645 HR 30,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+358 HU 25,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+3023 BT 31,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+1558 GV 70,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+1361 VA 84,Renault,Laguna 2.0T,170,longue,5,5,bleu,true,19110
+1482 GV 31,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+8459 IW 12,Peugeot,1007 1.4,75,courte,5,5,gris,true,9625
+872 KK 20,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+459 TC 55,Renault,Laguna 2.0T,170,longue,5,5,rouge,true,19110
+875 NA 88,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+8710 UX 75,Nissan,Almera 1.8,115,moyenne,5,5,bleu,false,16450
