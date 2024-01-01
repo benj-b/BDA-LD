@@ -274,8 +274,8 @@ head(data_test, 30)
 #tree3 <- tree(classe ~ ., data)
 ```
 ```{r}
-plot(tree3)
-text(tree3, pretty=0)
+#plot(tree3)
+#text(tree3, pretty=0)
 ```
 
 
