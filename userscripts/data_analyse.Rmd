@@ -242,29 +242,61 @@ L'objectif de cette étape est de créer à partir du résultat de la fusion pr�
 data <- na.omit(donnees_clients)
 sum(is.na(data))
 data$situationFamiliale <- iconv(data$situationFamiliale, to = "UTF-8", sub = "byte")
-
+head(data)
+data_train <- data[1:10000,]
+data_test <- data[10001:200000,]
 ```
 
 ```{r}
-tree1 <- rpart(classe ~ sexe + situationFamiliale + X2eme.voiture + nbEnfantsAcharge, data) 
+tree1 <- rpart(classe ~ age + sexe + taux + situationFamiliale + nbEnfantsAcharge + X2eme.voiture, data_train) 
 prp(tree1)
 ```
 
 ```{r}
-#tree2 <- C5.0(classe ~ sexe + situationFamiliale + X2eme.voiture + nbEnfantsAcharge, data)
+test_tree1 <- predict(tree1, data_test, type="class") 
+table(test_tree1)
+data_test$Tree1 <- test_tree1 
+```
+
+```{r}
+taux_succes1 <- nrow(data_test[data_test$classe==data_test$Tree1,]) / nrow(data_test) 
+taux_succes1
+head(data_test, 30)
+```
+
+```{r}
+#tree2 <- C5.0(classe ~ ., data, control = C5.0Control(minCases = 5, winnow=F, CF=F))
 #plot(tree2, type="simple")
 ```
 
 
 ```{r}
-tree3 <- tree(classe ~ sexe + situationFamiliale + X2eme.voiture + nbEnfantsAcharge, data)
+#tree3 <- tree(classe ~ ., data)
 ```
 ```{r}
-#plot(tree3)
-#text(tree3, pretty=0)
+plot(tree3)
+text(tree3, pretty=0)
 ```
 
 
 ## 6) Application du modèle de prédiction aux données Marketing :
 
 Les données Marketing contiennent les informations sur les clients pour lesquels on souhaite prédire une catégorie de véhicules. L'objectif est de prédire pour chacun de ces clients la catégorie de véhicules qui lui correspond le mieux en utilisant le classifieur généré durant l'étape précédente.
+
+
+```{r}
+marketing <- read.csv("../files/Marketing.csv", header = TRUE, sep = ",", dec = ".", stringsAsFactors = T)
+marketing$situationFamiliale <- iconv(marketing$situationFamiliale, to = "UTF-8", sub = "byte")
+
+head(marketing)
+marketing$age <- as.factor(marketing$age)
+marketing$taux <- as.factor(marketing$taux)
+marketing$nbEnfantsAcharge <- as.factor(marketing$nbEnfantsAcharge)
+```
+
+```{r}
+class_treeN <- predict(tree1, marketing, type="class")
+table(class_treeN)
+marketing$Prediction <- class_treeN
+marketing
+```
